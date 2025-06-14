@@ -82,6 +82,9 @@ The final dataset was exported as `.xlsx` for use in Tableau Public.
 ### Summary Dashboard – *"Medical Procedure Insights"*
 Provides high-level metrics and visual trends.
 
+![image](https://github.com/user-attachments/assets/302c16c9-8742-472f-8b5b-5c2ba54a6a69)
+
+
 #### Visual Elements:
 - % of Active Patients with Procedures
 - Patient Count by Gender
@@ -100,6 +103,9 @@ Provides high-level metrics and visual trends.
 ---
 
 ## 🗂️ Procedures Dashboard – *"Detailed Patient Records"*
+
+![image](https://github.com/user-attachments/assets/c6e885d0-2320-4322-b4e3-e83de5fd8002)
+
 
 ### Visual Elements:
 - Patient Full Name
